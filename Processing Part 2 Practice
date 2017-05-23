@@ -1,0 +1,23 @@
+size(195,180);
+strokeWeight(3);
+//BLUE angles
+stroke(25,100,200);
+line(60,30,140,70);
+line(140,70,110,25);
+  //next angle
+line(175,75,150,85);
+line(150,85,167,105);
+  //next angle
+line(130,150,140,90);
+line(140,90,165,135);
+  //next angle
+line(44,46,130,80);
+line(130,80,30,105);
+
+//RED angles
+stroke(225,0,50);
+line(150,50,150,75);
+line(150,75,175,65);
+  //next angle
+line(30,120,130,90);
+line(130,90,87,155);
